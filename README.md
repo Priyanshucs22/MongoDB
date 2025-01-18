@@ -12,3 +12,6 @@ This project demonstrates basic **CRUD** (Create, Read, Update, Delete) operatio
 ## Requirements:
 - **Node.js**: Ensure Node.js is installed on your machine.
 - **MongoDB**: MongoDB should be running locally.
+
+## Installation:
+-  Clone this repo and then run "npm install" to install all dependencies.
